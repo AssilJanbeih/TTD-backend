@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTD_Backend", "TTD_Backend.csproj", "{F42E6854-BB18-4F76-9503-A022259253B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F42E6854-BB18-4F76-9503-A022259253B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42E6854-BB18-4F76-9503-A022259253B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42E6854-BB18-4F76-9503-A022259253B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42E6854-BB18-4F76-9503-A022259253B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75652E07-44EF-4F5E-B0E7-107FBC0942F8}
+	EndGlobalSection
+EndGlobal
